@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  thicbeans:
+    image: ${DOCKER_REGISTRY-}thicbeans
+    build:
+      context: .
+      dockerfile: ThicBeans/Dockerfile

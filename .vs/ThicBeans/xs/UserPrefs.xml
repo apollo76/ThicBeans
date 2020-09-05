@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{E56FD119-4DAE-446C-B36A-2407C76CA012}|Default">
+  <MonoDevelop.Ide.ItemProperties.ThicBeans FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
